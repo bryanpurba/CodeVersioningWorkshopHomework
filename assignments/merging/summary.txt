@@ -1,0 +1,1 @@
+In local, you can use `git merge <branch-name>` to merge the the <branch-name> into current branch

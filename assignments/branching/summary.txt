@@ -1,0 +1,3 @@
+- You can create a new branch by using command `git branch <branch-name>`
+- You can use command `git checkout <branch-name>` to switch to different branch,
+- Alternatively, you can use `git checkout -b <branch-name>` to create new branch and directly switch to that branch

@@ -1,0 +1,4 @@
+- Git is a one of tools that primarily used for version control
+- Use command `git init` to initialize the git repository
+- Use command `git add` to stage changes 
+- To commit the staged changes, use command `git commit`

@@ -1,0 +1,2 @@
+- In local, you can use `git merge <branch-name>` to merge the the <branch-name> into current branch
+- To findout changes between 2 branch, you can use command `git diff <branch-name-a> <branch-name-b>`, this command is also usefull if you want to inspect changes before merging
